@@ -7,7 +7,7 @@ Create a Laravel command that will calculate the sum of an array given as input
 Example of command usage:
 
 ```shell
-php artisan run:array_sum [1,2,[3,4,[5,6,[7],8,9],10],11] -> output 111
+php artisan run:array_sum [1,2,[3,4,[5,6,[7],8,9],10],11] -> output 66
 php artisan run:count_arrays [1,2,[3,4,[5,6,[5]]]] -> output 4
 ```
 
